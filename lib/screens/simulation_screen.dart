@@ -23,6 +23,25 @@ class _SimulationScreenState extends State<SimulationScreen> {
   String _resultText = "Ready to Simulate";
   List<String> _logs = [];
 
+  bool _pokemonBattle(TeamMember myPoke, TeamMember enemyPoke, Random rng) {
+    double myPower = myPoke.pokemon
+        .getStatsAtLevel(myPoke.level)
+        .values
+        .fold(0, (a, b) => a + b)
+        .toDouble();
+
+    double enemyPower = enemyPoke.pokemon
+        .getStatsAtLevel(enemyPoke.level)
+        .values
+        .fold(0, (a, b) => a + b)
+        .toDouble();
+
+    double myRoll = myPower * (0.8 + rng.nextDouble() * 0.4);
+    double enemyRoll = enemyPower * (0.8 + rng.nextDouble() * 0.4);
+
+    return myRoll > enemyRoll;
+  }
+
   void _runProbabilitySimulation(BuildContext context) async {
     final teamProv = Provider.of<TeamProvider>(context, listen: false);
     final myTeam = teamProv.teamA.whereType<TeamMember>().toList();
@@ -48,44 +67,46 @@ class _SimulationScreenState extends State<SimulationScreen> {
     await Future.delayed(const Duration(milliseconds: 100)); // UI Refresh
 
     for (int i = 0; i < totalBattles; i++) {
-      // 1. Pick Random Subsets of size _battleSize
-      int size = min(_battleSize, min(myTeam.length, enemyTeam.length));
+      // Sequential team battle
+      List<TeamMember> myQueue = List.from(myTeam)..shuffle(rng);
+      List<TeamMember> enemyQueue = List.from(enemyTeam)..shuffle(rng);
 
-      List<TeamMember> mySquad = List.from(myTeam)..shuffle(rng);
-      mySquad = mySquad.take(size).toList();
+      int myIndex = 0;
+      int enemyIndex = 0;
 
-      List<TeamMember> enemySquad = List.from(enemyTeam)..shuffle(rng);
-      enemySquad = enemySquad.take(size).toList();
+      int activeMy = min(_battleSize, myQueue.length);
+      int activeEnemy = min(_battleSize, enemyQueue.length);
 
-      // 2. Battle Squads
-      int squadWins = 0;
-      int squadLosses = 0;
+      List<TeamMember> myActive = myQueue.take(activeMy).toList();
+      List<TeamMember> enemyActive = enemyQueue.take(activeEnemy).toList();
 
-      for (int k = 0; k < size; k++) {
-        // Simple logic: Power * Luck
-        double myPower = mySquad[k]
-            .pokemon
-            .getStatsAtLevel(mySquad[k].level)
-            .values
-            .fold(0, (a, b) => a + b)
-            .toDouble();
-        double enemyPower = enemySquad[k]
-            .pokemon
-            .getStatsAtLevel(enemySquad[k].level)
-            .values
-            .fold(0, (a, b) => a + b)
-            .toDouble();
+      myIndex = activeMy;
+      enemyIndex = activeEnemy;
 
-        double myRoll = myPower * (0.8 + rng.nextDouble() * 0.4);
-        double enemyRoll = enemyPower * (0.8 + rng.nextDouble() * 0.4);
+      while (myActive.isNotEmpty && enemyActive.isNotEmpty) {
+        TeamMember myPoke = myActive.first;
+        TeamMember enemyPoke = enemyActive.first;
 
-        if (myRoll > enemyRoll)
-          squadWins++;
-        else
-          squadLosses++;
+        bool myWin = _pokemonBattle(myPoke, enemyPoke, rng);
+
+        if (myWin) {
+          enemyActive.removeAt(0);
+
+          if (enemyIndex < enemyQueue.length) {
+            enemyActive.add(enemyQueue[enemyIndex]);
+            enemyIndex++;
+          }
+        } else {
+          myActive.removeAt(0);
+
+          if (myIndex < myQueue.length) {
+            myActive.add(myQueue[myIndex]);
+            myIndex++;
+          }
+        }
       }
 
-      if (squadWins > squadLosses) myWins++;
+      if (myActive.isNotEmpty) myWins++;
     }
 
     double winRate = (myWins / totalBattles) * 100;
