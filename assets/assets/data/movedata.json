@@ -1,0 +1,4784 @@
+{
+  "Ice-fang": {
+    "type": "Ice",
+    "power": 65,
+    "accuracy": 95,
+    "category": "Physical"
+  },
+  "Trump-card": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Fury-cutter": {
+    "type": "Bug",
+    "power": 40,
+    "accuracy": 95,
+    "category": "Physical"
+  },
+  "Fake-tears": {
+    "type": "Dark",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Memento": {
+    "type": "Dark",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Block": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Overdrive": {
+    "type": "Electric",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Night-daze": {
+    "type": "Dark",
+    "power": 85,
+    "accuracy": 95,
+    "category": "Special"
+  },
+  "Decorate": {
+    "type": "Fairy",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Flip-turn": {
+    "type": "Water",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Eternabeam": {
+    "type": "Dragon",
+    "power": 160,
+    "accuracy": 90,
+    "category": "Special"
+  },
+  "Rock-slide": {
+    "type": "Rock",
+    "power": 75,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Zap-cannon": {
+    "type": "Electric",
+    "power": 120,
+    "accuracy": 50,
+    "category": "Special"
+  },
+  "Splash": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Meteor-beam": {
+    "type": "Rock",
+    "power": 120,
+    "accuracy": 90,
+    "category": "Special"
+  },
+  "Spirit-shackle": {
+    "type": "Ghost",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Revival-blessing": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Chilling-water": {
+    "type": "Water",
+    "power": 50,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Torch-song": {
+    "type": "Fire",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Sacred-sword": {
+    "type": "Fighting",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Endure": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Worry-seed": {
+    "type": "Grass",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Taunt": {
+    "type": "Dark",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Smokescreen": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Aromatherapy": {
+    "type": "Grass",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Grassy-glide": {
+    "type": "Grass",
+    "power": 55,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Burning-bulwark": {
+    "type": "Fire",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Spite": {
+    "type": "Ghost",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Branch-poke": {
+    "type": "Grass",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Mega-punch": {
+    "type": "Normal",
+    "power": 80,
+    "accuracy": 85,
+    "category": "Physical"
+  },
+  "Psyshock": {
+    "type": "Psychic",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Disarming-voice": {
+    "type": "Fairy",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Confuse-ray": {
+    "type": "Ghost",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "High-jump-kick": {
+    "type": "Fighting",
+    "power": 130,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Ancient-power": {
+    "type": "Rock",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Core-enforcer": {
+    "type": "Dragon",
+    "power": 100,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Flail": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Rock-smash": {
+    "type": "Fighting",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Pyro-ball": {
+    "type": "Fire",
+    "power": 120,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Sweet-scent": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Ice-hammer": {
+    "type": "Ice",
+    "power": 100,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Submission": {
+    "type": "Fighting",
+    "power": 80,
+    "accuracy": 80,
+    "category": "Physical"
+  },
+  "Aerial-ace": {
+    "type": "Flying",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Final-gambit": {
+    "type": "Fighting",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Dark-void": {
+    "type": "Dark",
+    "power": 0,
+    "accuracy": 50,
+    "category": "Status"
+  },
+  "Payback": {
+    "type": "Dark",
+    "power": 50,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Conversion-2": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Syrup-bomb": {
+    "type": "Grass",
+    "power": 60,
+    "accuracy": 85,
+    "category": "Special"
+  },
+  "Kowtow-cleave": {
+    "type": "Dark",
+    "power": 85,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Glaive-rush": {
+    "type": "Dragon",
+    "power": 120,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Heal-block": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Stun-spore": {
+    "type": "Grass",
+    "power": 0,
+    "accuracy": 75,
+    "category": "Status"
+  },
+  "Bestow": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Springtide-storm": {
+    "type": "Fairy",
+    "power": 100,
+    "accuracy": 80,
+    "category": "Special"
+  },
+  "Mach-punch": {
+    "type": "Fighting",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Echoed-voice": {
+    "type": "Normal",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Giga-drain": {
+    "type": "Grass",
+    "power": 75,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Mortal-spin": {
+    "type": "Poison",
+    "power": 30,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Bug-bite": {
+    "type": "Bug",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Supercell-slam": {
+    "type": "Electric",
+    "power": 100,
+    "accuracy": 95,
+    "category": "Physical"
+  },
+  "Tri-attack": {
+    "type": "Normal",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Pluck": {
+    "type": "Flying",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Headbutt": {
+    "type": "Normal",
+    "power": 70,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Entrainment": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Poltergeist": {
+    "type": "Ghost",
+    "power": 110,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Thunder-cage": {
+    "type": "Electric",
+    "power": 80,
+    "accuracy": 90,
+    "category": "Special"
+  },
+  "Meteor-assault": {
+    "type": "Fighting",
+    "power": 150,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Dynamic-punch": {
+    "type": "Fighting",
+    "power": 100,
+    "accuracy": 50,
+    "category": "Physical"
+  },
+  "Rototiller": {
+    "type": "Ground",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Instruct": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Wing-attack": {
+    "type": "Flying",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Power-trip": {
+    "type": "Dark",
+    "power": 20,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Coaching": {
+    "type": "Fighting",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "First-impression": {
+    "type": "Bug",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Dive": {
+    "type": "Water",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Accelerock": {
+    "type": "Rock",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Head-smash": {
+    "type": "Rock",
+    "power": 150,
+    "accuracy": 80,
+    "category": "Physical"
+  },
+  "Stomp": {
+    "type": "Normal",
+    "power": 65,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Baton-pass": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Powder": {
+    "type": "Bug",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Lucky-chant": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Multi-attack": {
+    "type": "Normal",
+    "power": 120,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Body-slam": {
+    "type": "Normal",
+    "power": 85,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Solar-blade": {
+    "type": "Grass",
+    "power": 125,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Cotton-guard": {
+    "type": "Grass",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Flash-cannon": {
+    "type": "Steel",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Mirror-move": {
+    "type": "Flying",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Trailblaze": {
+    "type": "Grass",
+    "power": 50,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Aqua-step": {
+    "type": "Water",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Calm-mind": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Sweet-kiss": {
+    "type": "Fairy",
+    "power": 0,
+    "accuracy": 75,
+    "category": "Status"
+  },
+  "Dragon-dance": {
+    "type": "Dragon",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Snowscape": {
+    "type": "Ice",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Nature-power": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "U-turn": {
+    "type": "Bug",
+    "power": 70,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Hyperspace-hole": {
+    "type": "Psychic",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Water-shuriken": {
+    "type": "Water",
+    "power": 15,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Charge": {
+    "type": "Electric",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Power-gem": {
+    "type": "Rock",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Shadow-punch": {
+    "type": "Ghost",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Refresh": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Anchor-shot": {
+    "type": "Steel",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Crush-grip": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Spotlight": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Morning-sun": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Cross-chop": {
+    "type": "Fighting",
+    "power": 100,
+    "accuracy": 80,
+    "category": "Physical"
+  },
+  "Razor-shell": {
+    "type": "Water",
+    "power": 75,
+    "accuracy": 95,
+    "category": "Physical"
+  },
+  "Fell-stinger": {
+    "type": "Bug",
+    "power": 50,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Self-destruct": {
+    "type": "Normal",
+    "power": 200,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Thunder-punch": {
+    "type": "Electric",
+    "power": 75,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Uproar": {
+    "type": "Normal",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Wood-hammer": {
+    "type": "Grass",
+    "power": 120,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Toxic": {
+    "type": "Poison",
+    "power": 0,
+    "accuracy": 90,
+    "category": "Status"
+  },
+  "Fairy-lock": {
+    "type": "Fairy",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Spit-up": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Collision-course": {
+    "type": "Fighting",
+    "power": 100,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Earth-power": {
+    "type": "Ground",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Mega-drain": {
+    "type": "Grass",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Chip-away": {
+    "type": "Normal",
+    "power": 70,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Ally-switch": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Glaciate": {
+    "type": "Ice",
+    "power": 65,
+    "accuracy": 95,
+    "category": "Special"
+  },
+  "Tail-glow": {
+    "type": "Bug",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Struggle-bug": {
+    "type": "Bug",
+    "power": 50,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Twister": {
+    "type": "Dragon",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Glare": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Embargo": {
+    "type": "Dark",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Cross-poison": {
+    "type": "Poison",
+    "power": 70,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Icy-wind": {
+    "type": "Ice",
+    "power": 55,
+    "accuracy": 95,
+    "category": "Special"
+  },
+  "Heart-stamp": {
+    "type": "Psychic",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Snipe-shot": {
+    "type": "Water",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Headlong-rush": {
+    "type": "Ground",
+    "power": 120,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Present": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Ingrain": {
+    "type": "Grass",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Beat-up": {
+    "type": "Dark",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Extreme-speed": {
+    "type": "Normal",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Flash": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Take-down": {
+    "type": "Normal",
+    "power": 90,
+    "accuracy": 85,
+    "category": "Physical"
+  },
+  "Speed-swap": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Double-edge": {
+    "type": "Normal",
+    "power": 120,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Magic-room": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Psychic-fangs": {
+    "type": "Psychic",
+    "power": 85,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Flying-press": {
+    "type": "Fighting",
+    "power": 100,
+    "accuracy": 95,
+    "category": "Physical"
+  },
+  "Recover": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Quash": {
+    "type": "Dark",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Strength-sap": {
+    "type": "Grass",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Infestation": {
+    "type": "Bug",
+    "power": 20,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Dragon-tail": {
+    "type": "Dragon",
+    "power": 60,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Bone-rush": {
+    "type": "Ground",
+    "power": 25,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Parabolic-charge": {
+    "type": "Electric",
+    "power": 65,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Circle-throw": {
+    "type": "Fighting",
+    "power": 60,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Dragon-claw": {
+    "type": "Dragon",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Fire-blast": {
+    "type": "Fire",
+    "power": 110,
+    "accuracy": 85,
+    "category": "Special"
+  },
+  "Foul-play": {
+    "type": "Dark",
+    "power": 95,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Flower-trick": {
+    "type": "Grass",
+    "power": 70,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Crafty-shield": {
+    "type": "Fairy",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Petal-dance": {
+    "type": "Grass",
+    "power": 120,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Teeter-dance": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Low-sweep": {
+    "type": "Fighting",
+    "power": 65,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Stuff-cheeks": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Charm": {
+    "type": "Fairy",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Scale-shot": {
+    "type": "Dragon",
+    "power": 25,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Power-whip": {
+    "type": "Grass",
+    "power": 120,
+    "accuracy": 85,
+    "category": "Physical"
+  },
+  "False-swipe": {
+    "type": "Normal",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Chilly-reception": {
+    "type": "Ice",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Inferno": {
+    "type": "Fire",
+    "power": 100,
+    "accuracy": 50,
+    "category": "Special"
+  },
+  "Thunder": {
+    "type": "Electric",
+    "power": 110,
+    "accuracy": 70,
+    "category": "Special"
+  },
+  "Crunch": {
+    "type": "Dark",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Geomancy": {
+    "type": "Fairy",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Petal-blizzard": {
+    "type": "Grass",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Leafage": {
+    "type": "Grass",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Burn-up": {
+    "type": "Fire",
+    "power": 130,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Synchronoise": {
+    "type": "Psychic",
+    "power": 120,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Spirit-break": {
+    "type": "Fairy",
+    "power": 75,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Tera-blast": {
+    "type": "Normal",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Dragon-ascent": {
+    "type": "Flying",
+    "power": 120,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Grudge": {
+    "type": "Ghost",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Grass-knot": {
+    "type": "Grass",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Constrict": {
+    "type": "Normal",
+    "power": 10,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Signal-beam": {
+    "type": "Bug",
+    "power": 75,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Outrage": {
+    "type": "Dragon",
+    "power": 120,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Poison-jab": {
+    "type": "Poison",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Matcha-gotcha": {
+    "type": "Grass",
+    "power": 80,
+    "accuracy": 90,
+    "category": "Special"
+  },
+  "Vital-throw": {
+    "type": "Fighting",
+    "power": 70,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Sucker-punch": {
+    "type": "Dark",
+    "power": 70,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Wide-guard": {
+    "type": "Rock",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Bullet-punch": {
+    "type": "Steel",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Yawn": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Quick-guard": {
+    "type": "Fighting",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Volt-switch": {
+    "type": "Electric",
+    "power": 70,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Heal-bell": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Lash-out": {
+    "type": "Dark",
+    "power": 75,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Smart-strike": {
+    "type": "Steel",
+    "power": 70,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Screech": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 85,
+    "category": "Status"
+  },
+  "Frost-breath": {
+    "type": "Ice",
+    "power": 60,
+    "accuracy": 90,
+    "category": "Special"
+  },
+  "Fire-pledge": {
+    "type": "Fire",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Apple-acid": {
+    "type": "Grass",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Forests-curse": {
+    "type": "Grass",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Toxic-thread": {
+    "type": "Poison",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Gastro-acid": {
+    "type": "Poison",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Heat-wave": {
+    "type": "Fire",
+    "power": 95,
+    "accuracy": 90,
+    "category": "Special"
+  },
+  "Laser-focus": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "V-create": {
+    "type": "Fire",
+    "power": 180,
+    "accuracy": 95,
+    "category": "Physical"
+  },
+  "Power-trick": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Telekinesis": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Flower-shield": {
+    "type": "Fairy",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Copycat": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Flare-blitz": {
+    "type": "Fire",
+    "power": 120,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Reflect": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Stone-axe": {
+    "type": "Rock",
+    "power": 65,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Water-spout": {
+    "type": "Water",
+    "power": 150,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Bounce": {
+    "type": "Flying",
+    "power": 85,
+    "accuracy": 85,
+    "category": "Physical"
+  },
+  "Flame-wheel": {
+    "type": "Fire",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Sand-tomb": {
+    "type": "Ground",
+    "power": 35,
+    "accuracy": 85,
+    "category": "Physical"
+  },
+  "Heal-pulse": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Dire-claw": {
+    "type": "Poison",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Bleakwind-storm": {
+    "type": "Flying",
+    "power": 100,
+    "accuracy": 80,
+    "category": "Special"
+  },
+  "Lick": {
+    "type": "Ghost",
+    "power": 30,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Secret-power": {
+    "type": "Normal",
+    "power": 70,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Thunder-fang": {
+    "type": "Electric",
+    "power": 65,
+    "accuracy": 95,
+    "category": "Physical"
+  },
+  "Tera-starstorm": {
+    "type": "Normal",
+    "power": 120,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Double-kick": {
+    "type": "Fighting",
+    "power": 30,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Twineedle": {
+    "type": "Bug",
+    "power": 25,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Flame-charge": {
+    "type": "Fire",
+    "power": 50,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Jump-kick": {
+    "type": "Fighting",
+    "power": 100,
+    "accuracy": 95,
+    "category": "Physical"
+  },
+  "Acrobatics": {
+    "type": "Flying",
+    "power": 55,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Snarl": {
+    "type": "Dark",
+    "power": 55,
+    "accuracy": 95,
+    "category": "Special"
+  },
+  "Scratch": {
+    "type": "Normal",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Leer": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Dark-pulse": {
+    "type": "Dark",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Vine-whip": {
+    "type": "Grass",
+    "power": 45,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Volt-tackle": {
+    "type": "Electric",
+    "power": 120,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "X-scissor": {
+    "type": "Bug",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Freeze-dry": {
+    "type": "Ice",
+    "power": 70,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "After-you": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Crush-claw": {
+    "type": "Normal",
+    "power": 75,
+    "accuracy": 95,
+    "category": "Physical"
+  },
+  "Body-press": {
+    "type": "Fighting",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Electro-drift": {
+    "type": "Electric",
+    "power": 100,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Searing-shot": {
+    "type": "Fire",
+    "power": 100,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Sludge": {
+    "type": "Poison",
+    "power": 65,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Mega-kick": {
+    "type": "Normal",
+    "power": 120,
+    "accuracy": 75,
+    "category": "Physical"
+  },
+  "Tickle": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Reversal": {
+    "type": "Fighting",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Revenge": {
+    "type": "Fighting",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Double-slap": {
+    "type": "Normal",
+    "power": 15,
+    "accuracy": 85,
+    "category": "Physical"
+  },
+  "Skull-bash": {
+    "type": "Normal",
+    "power": 130,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Hyper-drill": {
+    "type": "Normal",
+    "power": 100,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Hypnosis": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 60,
+    "category": "Status"
+  },
+  "Origin-pulse": {
+    "type": "Water",
+    "power": 110,
+    "accuracy": 85,
+    "category": "Special"
+  },
+  "Slash": {
+    "type": "Normal",
+    "power": 70,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Absorb": {
+    "type": "Grass",
+    "power": 20,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Covet": {
+    "type": "Normal",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Drill-peck": {
+    "type": "Flying",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Fury-attack": {
+    "type": "Normal",
+    "power": 15,
+    "accuracy": 85,
+    "category": "Physical"
+  },
+  "Super-fang": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Dynamax-cannon": {
+    "type": "Dragon",
+    "power": 100,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Iron-tail": {
+    "type": "Steel",
+    "power": 100,
+    "accuracy": 75,
+    "category": "Physical"
+  },
+  "Blaze-kick": {
+    "type": "Fire",
+    "power": 85,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Sky-drop": {
+    "type": "Flying",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Kinesis": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 80,
+    "category": "Status"
+  },
+  "False-surrender": {
+    "type": "Dark",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Seed-bomb": {
+    "type": "Grass",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Spore": {
+    "type": "Grass",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Energy-ball": {
+    "type": "Grass",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Rage-powder": {
+    "type": "Bug",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Horn-attack": {
+    "type": "Normal",
+    "power": 65,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Gust": {
+    "type": "Flying",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Photon-geyser": {
+    "type": "Psychic",
+    "power": 100,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Ice-beam": {
+    "type": "Ice",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Soak": {
+    "type": "Water",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Rock-polish": {
+    "type": "Rock",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Salt-cure": {
+    "type": "Rock",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Venom-drench": {
+    "type": "Poison",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Protect": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Punishment": {
+    "type": "Dark",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Tearful-look": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Fire-spin": {
+    "type": "Fire",
+    "power": 35,
+    "accuracy": 85,
+    "category": "Special"
+  },
+  "Foresight": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Trick-room": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Pain-split": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Magnet-rise": {
+    "type": "Electric",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Focus-energy": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Growth": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Scald": {
+    "type": "Water",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Jet-punch": {
+    "type": "Water",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Rage-fist": {
+    "type": "Ghost",
+    "power": 50,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Eruption": {
+    "type": "Fire",
+    "power": 150,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Barrier": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Hydro-steam": {
+    "type": "Water",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Nightmare": {
+    "type": "Ghost",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Mimic": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Pay-day": {
+    "type": "Normal",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Guillotine": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 30,
+    "category": "Physical"
+  },
+  "Giga-impact": {
+    "type": "Normal",
+    "power": 150,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Agility": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Kings-shield": {
+    "type": "Steel",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Defog": {
+    "type": "Flying",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Double-team": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Bide": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Magical-leaf": {
+    "type": "Grass",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Rest": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Clanging-scales": {
+    "type": "Dragon",
+    "power": 110,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Drain-punch": {
+    "type": "Fighting",
+    "power": 75,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Roar": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Zen-headbutt": {
+    "type": "Psychic",
+    "power": 80,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Sticky-web": {
+    "type": "Bug",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Electric-terrain": {
+    "type": "Electric",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Topsy-turvy": {
+    "type": "Dark",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Mystical-fire": {
+    "type": "Fire",
+    "power": 75,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Aqua-cutter": {
+    "type": "Water",
+    "power": 70,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Moonblast": {
+    "type": "Fairy",
+    "power": 95,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Ice-punch": {
+    "type": "Ice",
+    "power": 75,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Bubble": {
+    "type": "Water",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Lands-wrath": {
+    "type": "Ground",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Disable": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Brave-bird": {
+    "type": "Flying",
+    "power": 120,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Odor-sleuth": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Psyshield-bash": {
+    "type": "Psychic",
+    "power": 70,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Thief": {
+    "type": "Dark",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Vice-grip": {
+    "type": "Normal",
+    "power": 55,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Spectral-thief": {
+    "type": "Ghost",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Hyper-voice": {
+    "type": "Normal",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Stored-power": {
+    "type": "Psychic",
+    "power": 20,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Teatime": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Karate-chop": {
+    "type": "Fighting",
+    "power": 50,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Meditate": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Parting-shot": {
+    "type": "Dark",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Ice-shard": {
+    "type": "Ice",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Miracle-eye": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Spikes": {
+    "type": "Ground",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Tail-whip": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Hone-claws": {
+    "type": "Dark",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Doodle": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Heal-order": {
+    "type": "Bug",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Aura-wheel": {
+    "type": "Electric",
+    "power": 110,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Dizzy-punch": {
+    "type": "Normal",
+    "power": 70,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Grav-apple": {
+    "type": "Grass",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Switcheroo": {
+    "type": "Dark",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Coil": {
+    "type": "Poison",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Wave-crash": {
+    "type": "Water",
+    "power": 120,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Bone-club": {
+    "type": "Ground",
+    "power": 65,
+    "accuracy": 85,
+    "category": "Physical"
+  },
+  "Arm-thrust": {
+    "type": "Fighting",
+    "power": 15,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Population-bomb": {
+    "type": "Normal",
+    "power": 20,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Strength": {
+    "type": "Normal",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Breaking-swipe": {
+    "type": "Dragon",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Acupressure": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Horn-drill": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 30,
+    "category": "Physical"
+  },
+  "Poison-fang": {
+    "type": "Poison",
+    "power": 50,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Shadow-ball": {
+    "type": "Ghost",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Mist": {
+    "type": "Ice",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Knock-off": {
+    "type": "Dark",
+    "power": 65,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Snatch": {
+    "type": "Dark",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Hydro-pump": {
+    "type": "Water",
+    "power": 110,
+    "accuracy": 80,
+    "category": "Special"
+  },
+  "Sandsear-storm": {
+    "type": "Ground",
+    "power": 100,
+    "accuracy": 80,
+    "category": "Special"
+  },
+  "Confusion": {
+    "type": "Psychic",
+    "power": 50,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Order-up": {
+    "type": "Dragon",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Shift-gear": {
+    "type": "Steel",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Return": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Silk-trap": {
+    "type": "Bug",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Dig": {
+    "type": "Ground",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Flame-burst": {
+    "type": "Fire",
+    "power": 70,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Double-hit": {
+    "type": "Normal",
+    "power": 35,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Ion-deluge": {
+    "type": "Electric",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Drill-run": {
+    "type": "Ground",
+    "power": 80,
+    "accuracy": 95,
+    "category": "Physical"
+  },
+  "Will-o-wisp": {
+    "type": "Fire",
+    "power": 0,
+    "accuracy": 85,
+    "category": "Status"
+  },
+  "Leech-seed": {
+    "type": "Grass",
+    "power": 0,
+    "accuracy": 90,
+    "category": "Status"
+  },
+  "Extrasensory": {
+    "type": "Psychic",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Sheer-cold": {
+    "type": "Ice",
+    "power": 0,
+    "accuracy": 30,
+    "category": "Special"
+  },
+  "Stockpile": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Attract": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Acid-spray": {
+    "type": "Poison",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Night-shade": {
+    "type": "Ghost",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Lunar-dance": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Thunderclap": {
+    "type": "Electric",
+    "power": 70,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Lunge": {
+    "type": "Bug",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Whirlpool": {
+    "type": "Water",
+    "power": 35,
+    "accuracy": 85,
+    "category": "Special"
+  },
+  "Rollout": {
+    "type": "Rock",
+    "power": 30,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Me-first": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Pounce": {
+    "type": "Bug",
+    "power": 50,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Water-sport": {
+    "type": "Water",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Poison-gas": {
+    "type": "Poison",
+    "power": 0,
+    "accuracy": 90,
+    "category": "Status"
+  },
+  "Shock-wave": {
+    "type": "Electric",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Wild-charge": {
+    "type": "Electric",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Thrash": {
+    "type": "Normal",
+    "power": 120,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Sleep-powder": {
+    "type": "Grass",
+    "power": 0,
+    "accuracy": 75,
+    "category": "Status"
+  },
+  "Sharpen": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Imprison": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Dragon-rage": {
+    "type": "Dragon",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Whirlwind": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Stealth-rock": {
+    "type": "Rock",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Wonder-room": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Dragon-darts": {
+    "type": "Dragon",
+    "power": 50,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Harden": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Leaf-blade": {
+    "type": "Grass",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Draining-kiss": {
+    "type": "Fairy",
+    "power": 50,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Shell-smash": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Work-up": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Poison-tail": {
+    "type": "Poison",
+    "power": 50,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Obstruct": {
+    "type": "Dark",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Misty-explosion": {
+    "type": "Fairy",
+    "power": 100,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Skitter-smack": {
+    "type": "Bug",
+    "power": 70,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Psystrike": {
+    "type": "Psychic",
+    "power": 100,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Life-dew": {
+    "type": "Water",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Air-slash": {
+    "type": "Flying",
+    "power": 75,
+    "accuracy": 95,
+    "category": "Special"
+  },
+  "Swagger": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 85,
+    "category": "Status"
+  },
+  "Ice-ball": {
+    "type": "Ice",
+    "power": 30,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Aromatic-mist": {
+    "type": "Fairy",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Captivate": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Wake-up-slap": {
+    "type": "Fighting",
+    "power": 70,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Poison-powder": {
+    "type": "Poison",
+    "power": 0,
+    "accuracy": 75,
+    "category": "Status"
+  },
+  "Fly": {
+    "type": "Flying",
+    "power": 90,
+    "accuracy": 95,
+    "category": "Physical"
+  },
+  "Psywave": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Conversion": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Misty-terrain": {
+    "type": "Fairy",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Clangorous-soul": {
+    "type": "Dragon",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Megahorn": {
+    "type": "Bug",
+    "power": 120,
+    "accuracy": 85,
+    "category": "Physical"
+  },
+  "Trick": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Synthesis": {
+    "type": "Grass",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Aurora-beam": {
+    "type": "Ice",
+    "power": 65,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Liquidation": {
+    "type": "Water",
+    "power": 85,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Mist-ball": {
+    "type": "Psychic",
+    "power": 95,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Steamroller": {
+    "type": "Bug",
+    "power": 65,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Meteor-mash": {
+    "type": "Steel",
+    "power": 90,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Hydro-cannon": {
+    "type": "Water",
+    "power": 150,
+    "accuracy": 90,
+    "category": "Special"
+  },
+  "Ember": {
+    "type": "Fire",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Autotomize": {
+    "type": "Steel",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Dual-chop": {
+    "type": "Dragon",
+    "power": 40,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Low-kick": {
+    "type": "Fighting",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Needle-arm": {
+    "type": "Grass",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Steel-wing": {
+    "type": "Steel",
+    "power": 70,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Venoshock": {
+    "type": "Poison",
+    "power": 65,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Head-charge": {
+    "type": "Normal",
+    "power": 120,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Temper-flare": {
+    "type": "Fire",
+    "power": 75,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Acid-armor": {
+    "type": "Poison",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Psybeam": {
+    "type": "Psychic",
+    "power": 65,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Thunderbolt": {
+    "type": "Electric",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Psycho-boost": {
+    "type": "Psychic",
+    "power": 140,
+    "accuracy": 90,
+    "category": "Special"
+  },
+  "Triple-dive": {
+    "type": "Water",
+    "power": 30,
+    "accuracy": 95,
+    "category": "Physical"
+  },
+  "Expanding-force": {
+    "type": "Psychic",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Clamp": {
+    "type": "Water",
+    "power": 35,
+    "accuracy": 85,
+    "category": "Physical"
+  },
+  "Psyblade": {
+    "type": "Psychic",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Electrify": {
+    "type": "Electric",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Armor-cannon": {
+    "type": "Fire",
+    "power": 120,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Raging-bull": {
+    "type": "Normal",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Swift": {
+    "type": "Normal",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Light-screen": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Dragon-rush": {
+    "type": "Dragon",
+    "power": 100,
+    "accuracy": 75,
+    "category": "Physical"
+  },
+  "Supersonic": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 55,
+    "category": "Status"
+  },
+  "Psychic-noise": {
+    "type": "Psychic",
+    "power": 75,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Prismatic-laser": {
+    "type": "Psychic",
+    "power": 160,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Fury-swipes": {
+    "type": "Normal",
+    "power": 18,
+    "accuracy": 80,
+    "category": "Physical"
+  },
+  "Tailwind": {
+    "type": "Flying",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Fillet-away": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Nasty-plot": {
+    "type": "Dark",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Belly-drum": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Feint-attack": {
+    "type": "Dark",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Egg-bomb": {
+    "type": "Normal",
+    "power": 100,
+    "accuracy": 75,
+    "category": "Physical"
+  },
+  "Fire-lash": {
+    "type": "Fire",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Aqua-jet": {
+    "type": "Water",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Throat-chop": {
+    "type": "Dark",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Fling": {
+    "type": "Dark",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Seed-flare": {
+    "type": "Grass",
+    "power": 120,
+    "accuracy": 85,
+    "category": "Special"
+  },
+  "Diamond-storm": {
+    "type": "Rock",
+    "power": 100,
+    "accuracy": 95,
+    "category": "Physical"
+  },
+  "Smack-down": {
+    "type": "Rock",
+    "power": 50,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Psychic-terrain": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Hyper-fang": {
+    "type": "Normal",
+    "power": 80,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Fire-fang": {
+    "type": "Fire",
+    "power": 65,
+    "accuracy": 95,
+    "category": "Physical"
+  },
+  "Steel-beam": {
+    "type": "Steel",
+    "power": 140,
+    "accuracy": 95,
+    "category": "Special"
+  },
+  "Metal-burst": {
+    "type": "Steel",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Dream-eater": {
+    "type": "Psychic",
+    "power": 100,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Amnesia": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Quick-attack": {
+    "type": "Normal",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Nuzzle": {
+    "type": "Electric",
+    "power": 20,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Iron-defense": {
+    "type": "Steel",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Wish": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Gravity": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Brutal-swing": {
+    "type": "Dark",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Fire-punch": {
+    "type": "Fire",
+    "power": 75,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Dragon-cheer": {
+    "type": "Dragon",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Dragon-breath": {
+    "type": "Dragon",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Bind": {
+    "type": "Normal",
+    "power": 15,
+    "accuracy": 85,
+    "category": "Physical"
+  },
+  "Detect": {
+    "type": "Fighting",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Mirror-coat": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Twin-beam": {
+    "type": "Psychic",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Soft-boiled": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Flamethrower": {
+    "type": "Fire",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Fake-out": {
+    "type": "Normal",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Recycle": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Torment": {
+    "type": "Dark",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Rain-dance": {
+    "type": "Water",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Floral-healing": {
+    "type": "Fairy",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Ominous-wind": {
+    "type": "Ghost",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Psycho-cut": {
+    "type": "Psychic",
+    "power": 70,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Ruination": {
+    "type": "Dark",
+    "power": 1,
+    "accuracy": 90,
+    "category": "Special"
+  },
+  "Trick-or-treat": {
+    "type": "Ghost",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Magnetic-flux": {
+    "type": "Electric",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Lunar-blessing": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Frenzy-plant": {
+    "type": "Grass",
+    "power": 150,
+    "accuracy": 90,
+    "category": "Special"
+  },
+  "Water-pulse": {
+    "type": "Water",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Moonlight": {
+    "type": "Fairy",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Techno-blast": {
+    "type": "Normal",
+    "power": 120,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Bonemerang": {
+    "type": "Ground",
+    "power": 50,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Skill-swap": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Teleport": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Sandstorm": {
+    "type": "Rock",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Tar-shot": {
+    "type": "Rock",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Ivy-cudgel": {
+    "type": "Grass",
+    "power": 100,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Encore": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Safeguard": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Wring-out": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Aeroblast": {
+    "type": "Flying",
+    "power": 100,
+    "accuracy": 95,
+    "category": "Special"
+  },
+  "Gear-grind": {
+    "type": "Steel",
+    "power": 50,
+    "accuracy": 85,
+    "category": "Physical"
+  },
+  "Sunny-day": {
+    "type": "Fire",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Rising-voltage": {
+    "type": "Electric",
+    "power": 70,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Muddy-water": {
+    "type": "Water",
+    "power": 90,
+    "accuracy": 85,
+    "category": "Special"
+  },
+  "Smelling-salts": {
+    "type": "Normal",
+    "power": 70,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Electro-shot": {
+    "type": "Electric",
+    "power": 130,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Fleur-cannon": {
+    "type": "Fairy",
+    "power": 130,
+    "accuracy": 90,
+    "category": "Special"
+  },
+  "Bitter-blade": {
+    "type": "Fire",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Play-rough": {
+    "type": "Fairy",
+    "power": 90,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Thunder-wave": {
+    "type": "Electric",
+    "power": 0,
+    "accuracy": 90,
+    "category": "Status"
+  },
+  "Simple-beam": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Sacred-fire": {
+    "type": "Fire",
+    "power": 100,
+    "accuracy": 95,
+    "category": "Physical"
+  },
+  "Beak-blast": {
+    "type": "Flying",
+    "power": 100,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Acid": {
+    "type": "Poison",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Rapid-spin": {
+    "type": "Normal",
+    "power": 50,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Minimize": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Spark": {
+    "type": "Electric",
+    "power": 65,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Toxic-spikes": {
+    "type": "Poison",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Comet-punch": {
+    "type": "Normal",
+    "power": 18,
+    "accuracy": 85,
+    "category": "Physical"
+  },
+  "Dragon-energy": {
+    "type": "Dragon",
+    "power": 150,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Milk-drink": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Astonish": {
+    "type": "Ghost",
+    "power": 30,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Destiny-bond": {
+    "type": "Ghost",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Hurricane": {
+    "type": "Flying",
+    "power": 110,
+    "accuracy": 70,
+    "category": "Special"
+  },
+  "Bolt-strike": {
+    "type": "Electric",
+    "power": 130,
+    "accuracy": 85,
+    "category": "Physical"
+  },
+  "Retaliate": {
+    "type": "Normal",
+    "power": 70,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Mind-blown": {
+    "type": "Fire",
+    "power": 150,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Defense-curl": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Iron-head": {
+    "type": "Steel",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Reflect-type": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Tail-slap": {
+    "type": "Normal",
+    "power": 25,
+    "accuracy": 85,
+    "category": "Physical"
+  },
+  "Metal-claw": {
+    "type": "Steel",
+    "power": 50,
+    "accuracy": 95,
+    "category": "Physical"
+  },
+  "Focus-punch": {
+    "type": "Fighting",
+    "power": 150,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Overheat": {
+    "type": "Fire",
+    "power": 130,
+    "accuracy": 90,
+    "category": "Special"
+  },
+  "Leaf-tornado": {
+    "type": "Grass",
+    "power": 65,
+    "accuracy": 90,
+    "category": "Special"
+  },
+  "Octolock": {
+    "type": "Fighting",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Ice-spinner": {
+    "type": "Ice",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Luster-purge": {
+    "type": "Psychic",
+    "power": 95,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Raging-fury": {
+    "type": "Fire",
+    "power": 120,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Powder-snow": {
+    "type": "Ice",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Fissure": {
+    "type": "Ground",
+    "power": 0,
+    "accuracy": 30,
+    "category": "Physical"
+  },
+  "Precipice-blades": {
+    "type": "Ground",
+    "power": 120,
+    "accuracy": 85,
+    "category": "Physical"
+  },
+  "Smog": {
+    "type": "Poison",
+    "power": 30,
+    "accuracy": 70,
+    "category": "Special"
+  },
+  "Steam-eruption": {
+    "type": "Water",
+    "power": 110,
+    "accuracy": 95,
+    "category": "Special"
+  },
+  "Mud-sport": {
+    "type": "Ground",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Attack-order": {
+    "type": "Bug",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Future-sight": {
+    "type": "Psychic",
+    "power": 120,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Seismic-toss": {
+    "type": "Fighting",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Mean-look": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Power-swap": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Solar-beam": {
+    "type": "Grass",
+    "power": 120,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Clear-smog": {
+    "type": "Poison",
+    "power": 50,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Wildbolt-storm": {
+    "type": "Electric",
+    "power": 100,
+    "accuracy": 80,
+    "category": "Special"
+  },
+  "Grassy-terrain": {
+    "type": "Grass",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Mud-bomb": {
+    "type": "Ground",
+    "power": 65,
+    "accuracy": 85,
+    "category": "Special"
+  },
+  "Close-combat": {
+    "type": "Fighting",
+    "power": 120,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Dragon-pulse": {
+    "type": "Dragon",
+    "power": 85,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Steel-roller": {
+    "type": "Steel",
+    "power": 130,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Stone-edge": {
+    "type": "Rock",
+    "power": 100,
+    "accuracy": 80,
+    "category": "Physical"
+  },
+  "Bulk-up": {
+    "type": "Fighting",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Cotton-spore": {
+    "type": "Grass",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Slack-off": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Spike-cannon": {
+    "type": "Normal",
+    "power": 20,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Transform": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Dazzling-gleam": {
+    "type": "Fairy",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Thousand-waves": {
+    "type": "Ground",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Tackle": {
+    "type": "Normal",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Octazooka": {
+    "type": "Water",
+    "power": 65,
+    "accuracy": 85,
+    "category": "Special"
+  },
+  "Electro-ball": {
+    "type": "Electric",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Razor-wind": {
+    "type": "Normal",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Magic-powder": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Oblivion-wing": {
+    "type": "Flying",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Corrosive-gas": {
+    "type": "Poison",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Haze": {
+    "type": "Ice",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Jaw-lock": {
+    "type": "Dark",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Endeavor": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Swallow": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Pin-missile": {
+    "type": "Bug",
+    "power": 25,
+    "accuracy": 95,
+    "category": "Physical"
+  },
+  "Zing-zap": {
+    "type": "Electric",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Bulldoze": {
+    "type": "Ground",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Weather-ball": {
+    "type": "Normal",
+    "power": 50,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Natural-gift": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Terrain-pulse": {
+    "type": "Normal",
+    "power": 50,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Mirror-shot": {
+    "type": "Steel",
+    "power": 65,
+    "accuracy": 85,
+    "category": "Special"
+  },
+  "Magic-coat": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Draco-meteor": {
+    "type": "Dragon",
+    "power": 130,
+    "accuracy": 90,
+    "category": "Special"
+  },
+  "Mystical-power": {
+    "type": "Psychic",
+    "power": 70,
+    "accuracy": 90,
+    "category": "Special"
+  },
+  "Roar-of-time": {
+    "type": "Dragon",
+    "power": 150,
+    "accuracy": 90,
+    "category": "Special"
+  },
+  "Barrage": {
+    "type": "Normal",
+    "power": 15,
+    "accuracy": 85,
+    "category": "Physical"
+  },
+  "Noble-roar": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Shadow-claw": {
+    "type": "Ghost",
+    "power": 70,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Triple-axel": {
+    "type": "Ice",
+    "power": 20,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Perish-song": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Rage": {
+    "type": "Normal",
+    "power": 20,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Confide": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Chatter": {
+    "type": "Flying",
+    "power": 65,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Fairy-wind": {
+    "type": "Fairy",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Cosmic-power": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Judgment": {
+    "type": "Normal",
+    "power": 100,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Aura-sphere": {
+    "type": "Fighting",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Sketch": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Feint": {
+    "type": "Normal",
+    "power": 30,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Comeuppance": {
+    "type": "Dark",
+    "power": 1,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Sparkling-aria": {
+    "type": "Water",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Blue-flare": {
+    "type": "Fire",
+    "power": 130,
+    "accuracy": 85,
+    "category": "Special"
+  },
+  "Defend-order": {
+    "type": "Bug",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Psychic": {
+    "type": "Psychic",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Waterfall": {
+    "type": "Water",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Mud-slap": {
+    "type": "Ground",
+    "power": 20,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Rock-wrecker": {
+    "type": "Rock",
+    "power": 150,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Relic-song": {
+    "type": "Normal",
+    "power": 75,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Metronome": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Feather-dance": {
+    "type": "Flying",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Gear-up": {
+    "type": "Steel",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Sky-uppercut": {
+    "type": "Fighting",
+    "power": 85,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Razor-leaf": {
+    "type": "Grass",
+    "power": 55,
+    "accuracy": 95,
+    "category": "Physical"
+  },
+  "Tachyon-cutter": {
+    "type": "Steel",
+    "power": 50,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Peck": {
+    "type": "Flying",
+    "power": 35,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Avalanche": {
+    "type": "Ice",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Scary-face": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Phantom-force": {
+    "type": "Ghost",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Charge-beam": {
+    "type": "Electric",
+    "power": 50,
+    "accuracy": 90,
+    "category": "Special"
+  },
+  "Sand-attack": {
+    "type": "Ground",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "High-horsepower": {
+    "type": "Ground",
+    "power": 95,
+    "accuracy": 95,
+    "category": "Physical"
+  },
+  "Hex": {
+    "type": "Ghost",
+    "power": 65,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Surf": {
+    "type": "Water",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Role-play": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Water-pledge": {
+    "type": "Water",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Air-cutter": {
+    "type": "Flying",
+    "power": 60,
+    "accuracy": 95,
+    "category": "Special"
+  },
+  "Blast-burn": {
+    "type": "Fire",
+    "power": 150,
+    "accuracy": 90,
+    "category": "Special"
+  },
+  "Boomburst": {
+    "type": "Normal",
+    "power": 140,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Growl": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Poison-sting": {
+    "type": "Poison",
+    "power": 15,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Play-nice": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Natures-madness": {
+    "type": "Fairy",
+    "power": 0,
+    "accuracy": 90,
+    "category": "Special"
+  },
+  "Silver-wind": {
+    "type": "Bug",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Magnitude": {
+    "type": "Ground",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Snore": {
+    "type": "Normal",
+    "power": 50,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Plasma-fists": {
+    "type": "Electric",
+    "power": 100,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Heavy-slam": {
+    "type": "Steel",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Swords-dance": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Substitute": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Brine": {
+    "type": "Water",
+    "power": 65,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Last-resort": {
+    "type": "Normal",
+    "power": 140,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Drum-beating": {
+    "type": "Grass",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Shelter": {
+    "type": "Steel",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Spiky-shield": {
+    "type": "Grass",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Lock-on": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Pound": {
+    "type": "Normal",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Fishious-rend": {
+    "type": "Water",
+    "power": 85,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Fusion-flare": {
+    "type": "Fire",
+    "power": 100,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Double-shock": {
+    "type": "Electric",
+    "power": 120,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Darkest-lariat": {
+    "type": "Dark",
+    "power": 85,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Rock-tomb": {
+    "type": "Rock",
+    "power": 60,
+    "accuracy": 95,
+    "category": "Physical"
+  },
+  "Rock-blast": {
+    "type": "Rock",
+    "power": 25,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Upper-hand": {
+    "type": "Fighting",
+    "power": 65,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Spacial-rend": {
+    "type": "Dragon",
+    "power": 100,
+    "accuracy": 95,
+    "category": "Special"
+  },
+  "Wrap": {
+    "type": "Normal",
+    "power": 15,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Hidden-power": {
+    "type": "Normal",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Wicked-blow": {
+    "type": "Dark",
+    "power": 75,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Baneful-bunker": {
+    "type": "Poison",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Spin-out": {
+    "type": "Steel",
+    "power": 100,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Leech-life": {
+    "type": "Bug",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Make-it-rain": {
+    "type": "Steel",
+    "power": 120,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Axe-kick": {
+    "type": "Fighting",
+    "power": 120,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Sonic-boom": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 90,
+    "category": "Special"
+  },
+  "Aurora-veil": {
+    "type": "Ice",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Storm-throw": {
+    "type": "Fighting",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Assurance": {
+    "type": "Dark",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Moongeist-beam": {
+    "type": "Ghost",
+    "power": 100,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Flatter": {
+    "type": "Dark",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Mind-reader": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Helping-hand": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Sing": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 55,
+    "category": "Status"
+  },
+  "Lovely-kiss": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 75,
+    "category": "Status"
+  },
+  "Shore-up": {
+    "type": "Ground",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Water-gun": {
+    "type": "Water",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Take-heart": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Follow-me": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Assist": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Vacuum-wave": {
+    "type": "Fighting",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Earthquake": {
+    "type": "Ground",
+    "power": 100,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Howl": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "String-shot": {
+    "type": "Bug",
+    "power": 0,
+    "accuracy": 95,
+    "category": "Status"
+  },
+  "Purify": {
+    "type": "Poison",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Burning-jealousy": {
+    "type": "Fire",
+    "power": 70,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Triple-kick": {
+    "type": "Fighting",
+    "power": 10,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Bubble-beam": {
+    "type": "Water",
+    "power": 65,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Sludge-wave": {
+    "type": "Poison",
+    "power": 95,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Sleep-talk": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Mat-block": {
+    "type": "Fighting",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "No-retreat": {
+    "type": "Fighting",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Healing-wish": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Heart-swap": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Crabhammer": {
+    "type": "Water",
+    "power": 100,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Revelation-dance": {
+    "type": "Normal",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Icicle-spear": {
+    "type": "Ice",
+    "power": 25,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Counter": {
+    "type": "Fighting",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Stomping-tantrum": {
+    "type": "Ground",
+    "power": 75,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Power-split": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Pollen-puff": {
+    "type": "Bug",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Blizzard": {
+    "type": "Ice",
+    "power": 110,
+    "accuracy": 70,
+    "category": "Special"
+  },
+  "Baby-doll-eyes": {
+    "type": "Fairy",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Doom-desire": {
+    "type": "Steel",
+    "power": 140,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Grass-whistle": {
+    "type": "Grass",
+    "power": 0,
+    "accuracy": 55,
+    "category": "Status"
+  },
+  "Rolling-kick": {
+    "type": "Fighting",
+    "power": 60,
+    "accuracy": 85,
+    "category": "Physical"
+  },
+  "Mighty-cleave": {
+    "type": "Rock",
+    "power": 95,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Sky-attack": {
+    "type": "Flying",
+    "power": 140,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Hard-press": {
+    "type": "Steel",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Metal-sound": {
+    "type": "Steel",
+    "power": 0,
+    "accuracy": 85,
+    "category": "Status"
+  },
+  "Discharge": {
+    "type": "Electric",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Curse": {
+    "type": "Ghost",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Electroweb": {
+    "type": "Electric",
+    "power": 55,
+    "accuracy": 95,
+    "category": "Special"
+  },
+  "Aqua-tail": {
+    "type": "Water",
+    "power": 90,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Aqua-ring": {
+    "type": "Water",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Last-respects": {
+    "type": "Ghost",
+    "power": 50,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Psycho-shift": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Brick-break": {
+    "type": "Fighting",
+    "power": 75,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Guard-swap": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Camouflage": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Alluring-voice": {
+    "type": "Fairy",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Trop-kick": {
+    "type": "Grass",
+    "power": 70,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Leaf-storm": {
+    "type": "Grass",
+    "power": 130,
+    "accuracy": 90,
+    "category": "Special"
+  },
+  "Bolt-beak": {
+    "type": "Electric",
+    "power": 85,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Round": {
+    "type": "Normal",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Withdraw": {
+    "type": "Water",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Fickle-beam": {
+    "type": "Dragon",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Guard-split": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Sunsteel-strike": {
+    "type": "Steel",
+    "power": 100,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Shadow-force": {
+    "type": "Ghost",
+    "power": 120,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Power-up-punch": {
+    "type": "Fighting",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Lumina-crash": {
+    "type": "Psychic",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Rock-climb": {
+    "type": "Normal",
+    "power": 90,
+    "accuracy": 85,
+    "category": "Physical"
+  },
+  "Sludge-bomb": {
+    "type": "Poison",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Horn-leech": {
+    "type": "Grass",
+    "power": 75,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Dragon-hammer": {
+    "type": "Dragon",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Explosion": {
+    "type": "Normal",
+    "power": 250,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Barb-barrage": {
+    "type": "Poison",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Icicle-crash": {
+    "type": "Ice",
+    "power": 85,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Slam": {
+    "type": "Normal",
+    "power": 80,
+    "accuracy": 75,
+    "category": "Physical"
+  },
+  "Bug-buzz": {
+    "type": "Bug",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Magma-storm": {
+    "type": "Fire",
+    "power": 100,
+    "accuracy": 75,
+    "category": "Special"
+  },
+  "Shed-tail": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Magnet-bomb": {
+    "type": "Steel",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Secret-sword": {
+    "type": "Fighting",
+    "power": 85,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Jungle-healing": {
+    "type": "Grass",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Force-palm": {
+    "type": "Fighting",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Frustration": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Hammer-arm": {
+    "type": "Fighting",
+    "power": 100,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Double-iron-bash": {
+    "type": "Steel",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Scorching-sands": {
+    "type": "Ground",
+    "power": 70,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Shadow-sneak": {
+    "type": "Ghost",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Belch": {
+    "type": "Poison",
+    "power": 120,
+    "accuracy": 90,
+    "category": "Special"
+  },
+  "Spicy-extract": {
+    "type": "Grass",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Heat-crash": {
+    "type": "Fire",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Bite": {
+    "type": "Dark",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Thousand-arrows": {
+    "type": "Ground",
+    "power": 90,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Cut": {
+    "type": "Normal",
+    "power": 50,
+    "accuracy": 95,
+    "category": "Physical"
+  },
+  "Shell-trap": {
+    "type": "Fire",
+    "power": 150,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Court-change": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Superpower": {
+    "type": "Fighting",
+    "power": 120,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Gigaton-hammer": {
+    "type": "Steel",
+    "power": 160,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Hail": {
+    "type": "Ice",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Fusion-bolt": {
+    "type": "Electric",
+    "power": 100,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Spider-web": {
+    "type": "Bug",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Tidy-up": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Rock-throw": {
+    "type": "Rock",
+    "power": 50,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Lava-plume": {
+    "type": "Fire",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Psych-up": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Grass-pledge": {
+    "type": "Grass",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Malignant-chain": {
+    "type": "Poison",
+    "power": 100,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Focus-blast": {
+    "type": "Fighting",
+    "power": 120,
+    "accuracy": 70,
+    "category": "Special"
+  },
+  "Eerie-impulse": {
+    "type": "Electric",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Gunk-shot": {
+    "type": "Poison",
+    "power": 120,
+    "accuracy": 80,
+    "category": "Physical"
+  },
+  "Roost": {
+    "type": "Flying",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Quiver-dance": {
+    "type": "Bug",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Status"
+  },
+  "Dual-wingbeat": {
+    "type": "Flying",
+    "power": 40,
+    "accuracy": 90,
+    "category": "Physical"
+  },
+  "Pursuit": {
+    "type": "Dark",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Gyro-ball": {
+    "type": "Steel",
+    "power": 0,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Mud-shot": {
+    "type": "Ground",
+    "power": 55,
+    "accuracy": 95,
+    "category": "Special"
+  },
+  "Thunder-shock": {
+    "type": "Electric",
+    "power": 40,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Night-slash": {
+    "type": "Dark",
+    "power": 70,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Hyper-beam": {
+    "type": "Normal",
+    "power": 150,
+    "accuracy": 90,
+    "category": "Special"
+  },
+  "Incinerate": {
+    "type": "Fire",
+    "power": 60,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Bullet-seed": {
+    "type": "Grass",
+    "power": 25,
+    "accuracy": 100,
+    "category": "Physical"
+  },
+  "Fiery-dance": {
+    "type": "Fire",
+    "power": 80,
+    "accuracy": 100,
+    "category": "Special"
+  },
+  "Facade": {
+    "type": "Normal",
+    "power": 70,
+    "accuracy": 100,
+    "category": "Physical"
+  }
+}
