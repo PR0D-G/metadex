@@ -14,11 +14,10 @@ class SimulationScreen extends StatefulWidget {
 }
 
 class _SimulationScreenState extends State<SimulationScreen> {
-  // Config
   int teamSize = 6;
   List<String> logs = [];
   bool isSimulating = false;
-  int _battleSize = 1; // 1v1, 2v2, 3v3
+  int _battleSize = 1;
   bool _isSimulating = false;
   String _resultText = "Ready to Simulate";
   List<String> _logs = [];
