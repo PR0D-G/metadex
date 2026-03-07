@@ -81,7 +81,8 @@ class TeamSlotCard extends StatelessWidget {
             height: 100,
             width: 100,
             child: p.imagePath.isNotEmpty
-                ? Image.asset("assets/${p.imagePath}",
+                ? Image.network(
+                    "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${p.id}.png",
                     errorBuilder: (c, e, s) => const Icon(Icons.broken_image))
                 : const Icon(Icons.image),
           ),

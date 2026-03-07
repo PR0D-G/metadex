@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
-import '../providers/data_provider.dart';
 import '../models/pokemon.dart';
 import '../utils/game_theme.dart';
 // import '../utils/type_chart.dart'; // Removed unused import
@@ -13,8 +11,6 @@ class PokemonCard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final provider = Provider.of<DataProvider>(context, listen: false);
-
     return GestureDetector(
       onTap: onTap,
       child: Container(
@@ -42,7 +38,8 @@ class PokemonCard extends StatelessWidget {
               child: Padding(
                 padding: const EdgeInsets.all(8.0),
                 child: pokemon.imagePath.isNotEmpty
-                    ? Image.asset(provider.getAssetPath(pokemon.imagePath),
+                    ? Image.network(
+                        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemon.id}.png",
                         fit: BoxFit.contain,
                         errorBuilder: (c, e, s) =>
                             const Icon(Icons.broken_image, color: Colors.grey))

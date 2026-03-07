@@ -30,7 +30,8 @@ class DetailScreen extends StatelessWidget {
                 height: 250,
                 width: 250,
                 child: pokemon.imagePath.isNotEmpty
-                    ? Image.asset(provider.getAssetPath(pokemon.imagePath),
+                    ? Image.network(
+                        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemon.id}.png",
                         fit: BoxFit.contain)
                     : const Icon(Icons.image_not_supported,
                         size: 100, color: Colors.grey),
@@ -256,8 +257,8 @@ class DetailScreen extends StatelessWidget {
                             width: 80,
                             child:
                                 member.id != -1 && member.imagePath.isNotEmpty
-                                    ? Image.asset(
-                                        provider.getAssetPath(member.imagePath),
+                                    ? Image.network(
+                                        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${member.id}.png",
                                         errorBuilder: (_, __, ___) =>
                                             const Icon(Icons.help_outline,
                                                 color: Colors.grey),

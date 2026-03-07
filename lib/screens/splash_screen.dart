@@ -52,8 +52,10 @@ class _SplashScreenState extends State<SplashScreen>
           Center(
             child: Opacity(
               opacity: 0.1,
-              child: Image.asset('assets/images/Pikachu.png',
-                  width: 300, color: Colors.white),
+              child: Image.network(
+                  'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png',
+                  width: 300,
+                  color: Colors.white),
             ),
           ),
 
@@ -79,8 +81,8 @@ class _SplashScreenState extends State<SplashScreen>
               child: Column(
                 mainAxisSize: MainAxisSize.min,
                 children: [
-                  Image.asset(
-                    'assets/images/Pikachu.png',
+                  Image.network(
+                    'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png',
                     height: 120,
                   ),
                   const SizedBox(height: 10),

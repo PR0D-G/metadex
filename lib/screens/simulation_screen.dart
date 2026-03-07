@@ -163,7 +163,8 @@ class _SimulationScreenState extends State<SimulationScreen> {
                             : Column(
                                 mainAxisAlignment: MainAxisAlignment.center,
                                 children: [
-                                  Image.asset("assets/${m.pokemon.imagePath}",
+                                  Image.network(
+                                      "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${m.pokemon.id}.png",
                                       height: 40,
                                       errorBuilder: (_, __, ___) =>
                                           const Icon(Icons.error)),
